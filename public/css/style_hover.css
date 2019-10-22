@@ -1,0 +1,5 @@
+#options ul .a_picker:hover{
+    cursor: pointer;!important;
+    color: black;!important;
+    font-weight: bold;!important;
+}
